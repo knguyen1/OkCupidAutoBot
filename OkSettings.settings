@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="OkCupidAutoBot" GeneratedClassName="OkSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">username</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">password</Value>
+    </Setting>
+    <Setting Name="matchThreshhold" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="sqlConnection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=NYC1AGLMKNGUYE1;Initial Catalog=OKCUPIDDB01;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="profileFields" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ProfileId,Username,Age,Location,Percentage,Enemy,LastOnline,Orientation,Ethnicity,Height,BodyType,Diet,Smokes,Drinks,Drugs,Religion,Sign,Education,Job,Income,RelationshipStatus,RelationshipType,Offspring,Pets,Speaks,CreatedBy,CreatedDt</Value>
+    </Setting>
+    <Setting Name="essayFields" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ProfileId,essay0,essay1,essay2,essay3,essay4,essay5,essay6,essay7,essay8,what_i_want,essay9,CreatedBy,CreatedDt</Value>
+    </Setting>
+    <Setting Name="sqlOrExcel" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="detailsTable" Type="System.String" Scope="User">
+      <Value Profile="(Default)">[dbo].[DimProfile]</Value>
+    </Setting>
+    <Setting Name="essaysTable" Type="System.String" Scope="User">
+      <Value Profile="(Default)">[dbo].[FactEssay]</Value>
+    </Setting>
+    <Setting Name="excelFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">girls.xlsx</Value>
+    </Setting>
+    <Setting Name="baseUri" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.okcupid.com</Value>
+    </Setting>
+    <Setting Name="girlsPerSession" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="matchesQueryString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/match?timekey=1&amp;matchOrderBy=SPECIAL_BLEND&amp;use_prefs=1&amp;discard_prefs=1&amp;count=50</Value>
+    </Setting>
+    <Setting Name="callThrottling" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,13 @@
+C:\Users\knguyen\Documents\Visual Studio 2010\Projects\OkCupidAutoBot\OkCupidAutoBot\bin\Debug\OkCupidAutoBot.exe.config
+C:\Users\knguyen\Documents\Visual Studio 2010\Projects\OkCupidAutoBot\OkCupidAutoBot\bin\Debug\OkCupidAutoBot.exe
+C:\Users\knguyen\Documents\Visual Studio 2010\Projects\OkCupidAutoBot\OkCupidAutoBot\bin\Debug\OkCupidAutoBot.pdb
+C:\Users\knguyen\Documents\Visual Studio 2010\Projects\OkCupidAutoBot\OkCupidAutoBot\bin\Debug\EPPlus.dll
+C:\Users\knguyen\Documents\Visual Studio 2010\Projects\OkCupidAutoBot\OkCupidAutoBot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\knguyen\Documents\Visual Studio 2010\Projects\OkCupidAutoBot\OkCupidAutoBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\knguyen\Documents\Visual Studio 2010\Projects\OkCupidAutoBot\OkCupidAutoBot\bin\Debug\EPPlus.xml
+C:\Users\knguyen\Documents\Visual Studio 2010\Projects\OkCupidAutoBot\OkCupidAutoBot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\knguyen\Documents\Visual Studio 2010\Projects\OkCupidAutoBot\OkCupidAutoBot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\knguyen\Documents\Visual Studio 2010\Projects\OkCupidAutoBot\OkCupidAutoBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\knguyen\Documents\Visual Studio 2010\Projects\OkCupidAutoBot\OkCupidAutoBot\obj\x86\Debug\OkCupidAutoBot.csprojResolveAssemblyReference.cache
+C:\Users\knguyen\Documents\Visual Studio 2010\Projects\OkCupidAutoBot\OkCupidAutoBot\obj\x86\Debug\OkCupidAutoBot.exe
+C:\Users\knguyen\Documents\Visual Studio 2010\Projects\OkCupidAutoBot\OkCupidAutoBot\obj\x86\Debug\OkCupidAutoBot.pdb
